@@ -1,0 +1,7 @@
+Staircasing: Off
+Add blocks under: No blocks
+Better color: Yes
+Dithering: Floyd-Steinberg
+
+Presets: Everything
+EXCLUDE: Block of raw iron
